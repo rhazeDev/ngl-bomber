@@ -1,6 +1,6 @@
 <h1>NGL Bomber</h1>
 
-[Project Preview](https://ngl-bomber.justineagcanas.live/ "Project Preview")
+[Project Preview](https://ngl-bomber.onrender.com/ "Project Preview")
 
 ![Preview](./images/preview.png)
 
