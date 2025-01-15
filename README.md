@@ -17,7 +17,7 @@ To deploy locally you need to install the following
 ### Installation
 ------------
 ```bash
-git clone https://github.com/RhazeCoder/ngl-bomber
+git clone https://github.com/rhazeDev/ngl-bomber
 ```
 ```bash
 cd ngl-bomber
